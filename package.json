@@ -1,0 +1,32 @@
+{
+  "name": "igwannabe",
+  "version": "1.0.0",
+  "description": "Este projeto foi feito especialmente para o primeiro TojaoTV Tech Talk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Node",
+    "MongoDB",
+    "Express",
+    "Nodemon",
+    "Mongoose",
+    "Anitta",
+    "AmorDeQuenga",
+    "MariliaMendonça",
+    "BrunaMarquezine",
+    "Neymar",
+    "CadeOQueiroz"
+  ],
+  "author": "Reggie 'Dropout' Gaboardi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.20"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
