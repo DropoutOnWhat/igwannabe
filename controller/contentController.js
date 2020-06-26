@@ -77,7 +77,7 @@ const createPost = (req, res) => {
     }).catch((err) => {
         res.status(500).json({ message: err }); 
     });
-} //ops gato pisou no teclado
+}
 
 
 module.exports = {allStories, createStory, allPosts, createPost} 
